@@ -11,6 +11,7 @@ NO. | Title | Solution | Note | Difficulty | Tag
 6 | [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/006.ZigZag%20Conversion/solution.hpp) | Note | Medium | 字符串
 19 | [Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/submissions/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/19.Remove%20Nth%20Node%20From%20End%20of%20List/Solution.hpp) | Note | Medium | 链表、双指针
 21 | [Merge Two Sorted Lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/21.Merge%20Two%20Sorted%20Lists/Solution.hpp) | Note | Easy | 链表
+68 | [Text Justification](https://leetcode-cn.com/problems/text-justification/submissions/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/068.Text%20Justification/Solution.hpp) | Note | Hard | 字符串
 141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/141.Linked%20List%20Cycle/Solution.hpp) | Note | Easy | 链表、双指针
 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/142.Linked%20List%20Cycle%20II/Solution.hpp) | Note | Medium | 链表、双指针
 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/206.Reverse%20Linked%20List/solution.hpp) | Note | Easy | 链表
