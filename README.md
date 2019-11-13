@@ -15,3 +15,4 @@ NO. | Title | Solution | Note | Difficulty | Tag
 141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/141.Linked%20List%20Cycle/Solution.hpp) | Note | Easy | 链表、双指针
 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/142.Linked%20List%20Cycle%20II/Solution.hpp) | Note | Medium | 链表、双指针
 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/206.Reverse%20Linked%20List/solution.hpp) | Note | Easy | 链表
+876 | [Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/submissions/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/876.Middle%20of%20the%20Linked%20List/Solution.hpp) | Note | Easy | 链表
