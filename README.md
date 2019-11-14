@@ -15,5 +15,9 @@ NO. | Title | Solution | Note | Difficulty | Tag
 68 | [Text Justification](https://leetcode-cn.com/problems/text-justification/submissions/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/068.Text%20Justification/Solution.hpp) | Note | Hard | 字符串
 141 | [Linked List Cycle](https://leetcode-cn.com/problems/linked-list-cycle/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/141.Linked%20List%20Cycle/Solution.hpp) | Note | Easy | 链表、双指针
 142 | [Linked List Cycle II](https://leetcode-cn.com/problems/linked-list-cycle-ii/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/142.Linked%20List%20Cycle%20II/Solution.hpp) | Note | Medium | 链表、双指针
+155 | [Min Stack](https://leetcode-cn.com/problems/min-stack/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/155.Min%20Stack/Solution.hpp) | Note | Easy | 栈、设计
 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/206.Reverse%20Linked%20List/solution.hpp) | Note | Easy | 链表
+224 | [Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/224.Basic%20Calculator/Solution.hpp) | Note |Hard | 栈、数字
+232 | [Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [C++](https://github.com/fightingdog/LeetCode/tree/master/232.Implement%20Queue%20using%20Stacks) | Note | Easy | 栈、设计
+844 | [Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/844.Backspace%20String%20Compare/Solution.hpp) | Note | Easy | 栈、双指针
 876 | [Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/submissions/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/876.Middle%20of%20the%20Linked%20List/Solution.hpp) | Note | Easy | 链表
