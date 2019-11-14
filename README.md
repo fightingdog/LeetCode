@@ -19,5 +19,7 @@ NO. | Title | Solution | Note | Difficulty | Tag
 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/206.Reverse%20Linked%20List/solution.hpp) | Note | Easy | 链表
 224 | [Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/224.Basic%20Calculator/Solution.hpp) | Note |Hard | 栈、数字
 232 | [Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [C++](https://github.com/fightingdog/LeetCode/tree/master/232.Implement%20Queue%20using%20Stacks) | Note | Easy | 栈、设计
+496 | [Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/496.Next%20Greater%20Element%20I/main.cpp) | Note | Easy | 栈
+682 | [Baseball Game](https://leetcode-cn.com/problems/baseball-game/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/682.Baseball%20Game/main.cpp) | Note | Easy | 栈
 844 | [Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/844.Backspace%20String%20Compare/Solution.hpp) | Note | Easy | 栈、双指针
 876 | [Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/submissions/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/876.Middle%20of%20the%20Linked%20List/Solution.hpp) | Note | Easy | 链表
