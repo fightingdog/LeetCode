@@ -19,7 +19,10 @@ NO. | Title | Solution | Note | Difficulty | Tag
 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/206.Reverse%20Linked%20List/solution.hpp) | Note | Easy | 链表
 224 | [Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/224.Basic%20Calculator/Solution.hpp) | Note |Hard | 栈、数字
 232 | [Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [C++](https://github.com/fightingdog/LeetCode/tree/master/232.Implement%20Queue%20using%20Stacks) | Note | Easy | 栈、设计
+346 | [Moving Average from Data Stream](https://leetcode-cn.com/problems/moving-average-from-data-stream/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/346.Moving%20Average%20from%20Data%20Stream/main.cpp) | Note | Easy | 队列
 496 | [Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/496.Next%20Greater%20Element%20I/main.cpp) | Note | Easy | 栈
+621 | [Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/621.Task%20Scheduler/main.cpp) | Note | Medium | 贪心、队列、数字
 682 | [Baseball Game](https://leetcode-cn.com/problems/baseball-game/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/682.Baseball%20Game/main.cpp) | Note | Easy | 栈
 844 | [Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/844.Backspace%20String%20Compare/Solution.hpp) | Note | Easy | 栈、双指针
 876 | [Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/submissions/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/876.Middle%20of%20the%20Linked%20List/Solution.hpp) | Note | Easy | 链表
+933 | [Number of Recent Calls](https://leetcode-cn.com/problems/number-of-recent-calls/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/933.Number%20of%20Recent%20Calls/main.cpp) | Note | Easy | 队列
