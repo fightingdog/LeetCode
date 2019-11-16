@@ -22,6 +22,7 @@ NO. | Title | Solution | Note | Difficulty | Tag
 346 | [Moving Average from Data Stream](https://leetcode-cn.com/problems/moving-average-from-data-stream/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/346.Moving%20Average%20from%20Data%20Stream/main.cpp) | Note | Easy | 队列
 496 | [Next Greater Element I](https://leetcode-cn.com/problems/next-greater-element-i/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/496.Next%20Greater%20Element%20I/main.cpp) | Note | Easy | 栈
 621 | [Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/621.Task%20Scheduler/main.cpp) | Note | Medium | 贪心、队列、数字
+622 | [Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/622.Design%20Circular%20Queue/main.cpp) | Note | Medium | 设计、队列
 682 | [Baseball Game](https://leetcode-cn.com/problems/baseball-game/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/682.Baseball%20Game/main.cpp) | Note | Easy | 栈
 844 | [Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/844.Backspace%20String%20Compare/Solution.hpp) | Note | Easy | 栈、双指针
 876 | [Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/submissions/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/876.Middle%20of%20the%20Linked%20List/Solution.hpp) | Note | Easy | 链表
