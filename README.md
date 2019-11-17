@@ -24,6 +24,8 @@ NO. | Title | Solution | Note | Difficulty | Tag
 621 | [Task Scheduler](https://leetcode-cn.com/problems/task-scheduler/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/621.Task%20Scheduler/main.cpp) | Note | Medium | 贪心、队列、数字
 622 | [Design Circular Queue](https://leetcode-cn.com/problems/design-circular-queue/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/622.Design%20Circular%20Queue/main.cpp) | Note | Medium | 设计、队列
 682 | [Baseball Game](https://leetcode-cn.com/problems/baseball-game/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/682.Baseball%20Game/main.cpp) | Note | Easy | 栈
+687 | [Longest Univalue Path](https://leetcode-cn.com/problems/longest-univalue-path/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/687.Longest%20Univalue%20Path/main.cpp) | Note | Easy | 树、递归
+783 | [Minimum Distance Between BST Nodes](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/783.Minimum%20Distance%20Between%20BST%20Nodes/main.cpp) | Note | Easy | 树、递归
 844 | [Backspace String Compare](https://leetcode-cn.com/problems/backspace-string-compare/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/844.Backspace%20String%20Compare/Solution.hpp) | Note | Easy | 栈、双指针
 876 | [Middle of the Linked List](https://leetcode-cn.com/problems/middle-of-the-linked-list/submissions/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/876.Middle%20of%20the%20Linked%20List/Solution.hpp) | Note | Easy | 链表
 933 | [Number of Recent Calls](https://leetcode-cn.com/problems/number-of-recent-calls/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/933.Number%20of%20Recent%20Calls/main.cpp) | Note | Easy | 队列
