@@ -40,6 +40,7 @@ NO. | Title | Solution | Note | Difficulty | Tag
 145 | [Binary Tree Postorder Traversal](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/145.Binary%20Tree%20Postorder%20Traversal/main.cpp) | Note | Hard | 栈、树
 155 | [Min Stack](https://leetcode-cn.com/problems/min-stack/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/155.Min%20Stack/Solution.hpp) | Note | Easy | 栈、设计
 206 | [Reverse Linked List](https://leetcode-cn.com/problems/reverse-linked-list/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/206.Reverse%20Linked%20List/solution.hpp) | Note | Easy | 链表
+208 | [Implement Trie (Prefix Tree)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/208.Implement%20Trie/main.cpp) | Note | Medium | 设计、字典树
 215 | [Kth Largest Element in an Array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/215.Kth%20Largest%20Element%20in%20an%20Array/main.cpp) | Note | Medium | 堆、分治算法
 224 | [Basic Calculator](https://leetcode-cn.com/problems/basic-calculator/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/224.Basic%20Calculator/Solution.hpp) | Note |Hard | 栈、数字
 232 | [Implement Queue using Stacks](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | [C++](https://github.com/fightingdog/LeetCode/tree/master/232.Implement%20Queue%20using%20Stacks) | Note | Easy | 栈、设计
