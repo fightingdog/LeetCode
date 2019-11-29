@@ -11,6 +11,7 @@ NO. | Title | Solution | Note | Difficulty | Tag
 6 | [ZigZag Conversion](https://leetcode-cn.com/problems/zigzag-conversion/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/006.ZigZag%20Conversion/solution.hpp) | Note | Medium | 字符串
 14 | [Longest Common Prefix](https://leetcode-cn.com/problems/longest-common-prefix/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/014.Longest%20Common%20Prefix/main.cpp) | Note | Easy | 字符串
 15 | [3Sum](https://leetcode-cn.com/problems/3sum/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/015.3Sum/main.cpp) | Note | Medium | 数组、双指针
+17 | [Letter Combinations of a Phone Number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/017.Letter%20Combinations%20of%20a%20Phone%20Number/main.cpp) | Note | Medium | 字符串、回溯算法
 18 | [4Sum](https://leetcode-cn.com/problems/4sum/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/018.4Sum/main.cpp) | Note | Medium | 数组、双指针、哈希表
 19 | [Remove Nth Node From End of List](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/submissions/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/019.Remove%20Nth%20Node%20From%20End%20of%20List/Solution.hpp) | Note | Medium | 链表、双指针
 20 | [Valid Parentheses](https://leetcode-cn.com/problems/valid-parentheses/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/020.Valid%20Parentheses/Solution.hpp) | Note | Easy | 栈、字符串
@@ -20,6 +21,9 @@ NO. | Title | Solution | Note | Difficulty | Tag
 30 | [Substring with Concatenation of All Words](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/) |[C++](https://github.com/fightingdog/LeetCode/blob/master/030.Substring%20with%20Concatenation%20of%20All%20Words/main.cpp) | Note | Hard | 哈希表、双指针、字符串
 33 | [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/033.Search%20in%20Rotated%20Sorted%20Array/main.cpp) | Note | Medium | 数组、二分查找
 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/034.Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array/main.cpp) | Note | Medium | 数组、二分查找
+46 | [Permutations](https://leetcode-cn.com/problems/permutations/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/046.Permutations/main.cpp) | Note | Medium | 回溯算法
+47 | [Permutations II](https://leetcode-cn.com/problems/permutations-ii/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/047.Permutations/main.cpp) | Medium | 回溯算法
+51 | [N-Queens](https://leetcode-cn.com/problems/n-queens/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/051.N-Queens/main.cpp) | Note | Hard | 回溯算法
 55 | [Jump Game](https://leetcode-cn.com/problems/jump-game/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/055.Jump%20Game/main.cpp) | Note | Medium | 贪心算法、数组
 56 | [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/056.Merge%20Intervals/main.cpp) | Note | Medium | 排序、数组
 57 | [Insert Interval](https://leetcode-cn.com/problems/insert-interval/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/057.Insert%20Interval/main.cpp) | Note | Hard | 排序、数组
@@ -50,6 +54,7 @@ NO. | Title | Solution | Note | Difficulty | Tag
 239 | [liding Window Maximum](https://leetcode-cn.com/problems/sliding-window-maximum/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/239.Sliding%20Window%20Maximum/main.cpp) | Note | Hard | 堆、Sliding Window
 242 | [Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/242.Valid%20Anagram/main.cpp) | Note | Easy | 排序、哈希表
 264 | [Ugly Number II](https://leetcode-cn.com/problems/ugly-number-ii/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/264.Ugly%20Number%20II/main.cpp) | Note | Medium | 堆、数学、动态规划
+300 | [Longest Increasing Subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/300.Longest%20Increasing%20Subsequence/main.cpp) | Note | Medium | 二分查找、动态规划
 346 | [Moving Average from Data Stream](https://leetcode-cn.com/problems/moving-average-from-data-stream/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/346.Moving%20Average%20from%20Data%20Stream/main.cpp) | Note | Easy | 队列
 347 | [Top K Frequent Elements](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/347.Top%20K%20Frequent%20Elements/main.cpp) | Note | Medium | 堆、哈希表
 349 | [Intersection of Two Arrays](https://leetcode-cn.com/problems/intersection-of-two-arrays/) | [C++](https://github.com/fightingdog/LeetCode/blob/master/349.Intersection%20of%20Two%20Arrays/main.cpp) | Note | Easy | 排序、哈希表、双指针、二分查找
